@@ -22,12 +22,12 @@ cd PolymarketBTC15mAssistant
 ### 2）安装依赖
 
 ```bash
-# 🖥️ macOS / Linux / WSL
+# 🖥️ FOr macOS / Linux / WSL
 ./install.sh
 npm install
 
 #--------------------------------------------------------------
-# 🖥️ Windows Powershell（以管理员身份运行）
+# 🖥️ For Windows Powershell（以管理员身份运行）
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 npm install
 ```
